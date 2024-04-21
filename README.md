@@ -1,6 +1,7 @@
 # twilio-conversations-react-native
 react native implementation of conversation
 
+```
 git clone https://github.com/vishakhamahawar29/twilio-conversations-react-native-2.git
 
 cd twilio-conversations-react-native-2
@@ -8,14 +9,6 @@ cd twilio-conversations-react-native-2
 npm install
 
 npx expo go
-
-
-
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
 **create token and add it in the app.js file
 
