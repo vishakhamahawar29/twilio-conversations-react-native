@@ -8,7 +8,7 @@ cd twilio-conversations-react-native-2
 
 npm install
 
-npx expo go
+npx expo start
 ```
 **create token and add it in the app.js file
 
