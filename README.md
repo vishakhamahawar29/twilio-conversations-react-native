@@ -10,14 +10,14 @@ npm install
 npx expo go
 
 
-**create token and add it in the app.js file
 
-install expo go in your mobile from playstore
 
 ```
 function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+**create token and add it in the app.js file
 
+install expo go in your mobile from playstore
 
